@@ -2,12 +2,9 @@
   <img src="https://raw.githubusercontent.com/Validia-AI/.github/main/public/FFN.png" alt="Validia Banner" width="100%" />
 </p>
 
-<h2 align="center">🔒 Brewing something new. Stay tuned.</h2>
+# Brewing something new. Stay tuned.
 
-<p align="center">
-AI is fundamentally reshaping the security landscape.<br/>
-At Validia, we're building solutions to ensure this powerful technology has a safer, more secure future.
-</p>
+AI is fundamentally reshaping the security landscape. At Validia, we're building solutions to ensure this powerful technology has a safer, more secure future.
 
 ---
 
