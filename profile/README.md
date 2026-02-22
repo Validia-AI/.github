@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://your-banner-url-here.png" alt="Validia Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Validia-AI/.github/main/public/FFN.png" alt="Validia Banner" width="100%" />
 </p>
 
-<h3 align="center">🔒 Brewing something new. Stay tuned.</h3>
+<h2 align="center">🔒 Brewing something new. Stay tuned.</h2>
 
 <p align="center">
 AI is fundamentally reshaping the security landscape.<br/>
