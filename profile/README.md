@@ -30,7 +30,7 @@ We're building toward a future where trust in AI isn't assumed. **It's verified.
 
 <p align="center">
   <a href="https://validia.ai"><img src="https://img.shields.io/badge/Website-validia.ai-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://twitter.com/validia"><img src="https://img.shields.io/badge/Twitter-@validia-1DA1F2?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://linkedin.com/company/validia"><img src="https://img.shields.io/badge/LinkedIn-Validia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/validia_ai"><img src="https://img.shields.io/badge/X-@validia_ai-1DA1F2?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://linkedin.com/company/validia-ai"><img src="https://img.shields.io/badge/LinkedIn-Validia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://substack.com/@paulvann"><img src="https://img.shields.io/badge/Substack-Newsletter-FF6719?style=for-the-badge&logo=substack&logoColor=white" /></a>
 </p>
